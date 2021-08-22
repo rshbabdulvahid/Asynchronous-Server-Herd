@@ -16,4 +16,6 @@ one point and then quickly to another server at a different
 point: it makes sense that dynamic request sequences be mirrored 
 in a server proxy that is equally dynamic"
 
--from report.pdf.
+Project was created in order to investigate asynchronous programming and evaluate
+its efficacy for the purposes of this pet project (a miniature server herd). 
+More details are given in report.pdf
